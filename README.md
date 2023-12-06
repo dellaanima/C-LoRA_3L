@@ -3,6 +3,7 @@
 
 아이펠에서 진행한 졸업 과제인 아이펠톤으로 PEFT기법 중 하나인 LoRA를 통해 model compression을 진행해보았습니다. 
 
+
 # Main Idea
 1. Weight Decay Scheduling(WDS):
    Adapter처럼 W + BA 형태로 학습시킴과 동시에, W를 점진적으로 decay하여 학습이 진행됨에 따라 BA에 잃어버린 W 정보를 학습함.
@@ -21,6 +22,8 @@
 - Weight Decay, C_weight
 - Weight Decay, Noise
 - Weight Decay, C_weight, Noise
+![image](https://github.com/dellaanima/3L_Aiffelthon_Online_5th/assets/134067511/7d89acc4-c031-4b1d-a630-3f085d2d3fa1)
+![image](https://github.com/dellaanima/3L_Aiffelthon_Online_5th/assets/134067511/d936f0ea-d9e5-491f-a204-0f822b517ba4)
 
 # License
 
