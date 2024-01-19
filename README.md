@@ -1,7 +1,7 @@
 # 3L Team
 안녕하세요. 아이펠 5기 리서치 네 명으로 구성된 3L입니다. 
 아이펠에서 진행한 졸업 과제인 아이펠톤으로 PEFT기법 중 하나인 LoRA를 통해 model compression을 진행해보았습니다.
-해당 프로젝트는 현재 [이영완님](https://youngwanlee.github.io/)의 지도 하에, 모두의 연구소 C-LoRA Labs 를 통해서 더 심화된 연구를 이어나가고 있습니다.  
+해당 프로젝트는 현재 [이영완님](https://youngwanlee.github.io/)의 지도 하에, 모두의 연구소 [C-LoRA Labs](https://modulabs.co.kr/product/lab-13918-2023-10-24-081428/) 를 통해서 더 심화된 연구를 이어나가고 있습니다.  
 
 # Main Idea
 1. Weight Decay Scheduling(WDS):
